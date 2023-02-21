@@ -2,6 +2,10 @@
 # Display name
 title: Inhyuk Song
 
+# Username (this should match the folder name)
+authors:
+  - Inhyukk
+
 # Is this the primary user of the site?
 superuser: false
 
