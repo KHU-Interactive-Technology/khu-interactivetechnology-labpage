@@ -66,8 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
   - Principal Investigators
 ---
 
-Seungjae Oh is a assistant professor of software convergence department at Kyung Hee University. His research interests include interactive I/O technologies, Haptics, and interaction techniques. He leads the interactive technology group, which develops interaction techniques for game and metaverse, input & output interfaces for AR/VR, and tactile displays for haptic interaction.
+Seungjae Oh is a assistant professor of software convergence department at Kyung Hee University. His research interests include interactive I/O technologies, haptics, and interaction techniques. He leads the interactive technology group, which develops interaction techniques for game and metaverse, input & output interfaces for AR/VR, and tactile displays for haptic interaction.
