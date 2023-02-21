@@ -64,9 +64,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
+  - Principal Investigators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Seungjae Oh is a assistant professor of software convergence department at Kyung Hee University. His research interests include interactive I/O technologies, Haptics, and interaction techniques. He leads the interactive technology group, which develops interaction techniques for game and metaverse, interactive I/O technologies for AR/VR, and tactile displays for haptic interaction.
