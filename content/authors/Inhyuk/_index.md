@@ -21,8 +21,8 @@ organizations:
 bio: .
 
 interests:
-  - VR and Metaverse
   - Interaction Techniques
+  - VR and Metaverse
 
 education:
   courses:
@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:inhyuk@khu.ac.kr'
+    link: 'mailto:test@example.org'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,11 +47,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Vistors
+  - Visitors
 ---
