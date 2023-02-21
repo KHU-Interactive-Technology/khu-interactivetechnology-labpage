@@ -21,7 +21,7 @@ organizations:
 bio: .
 
 interests:
-  - Artificial Intelligence
+  - VR and Metaverse
   - Interaction Techniques
 
 education:
