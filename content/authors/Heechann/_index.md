@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Inhyuk Song
+title: Heechan Moon
 
 # Username (this should match the folder name)
 authors:
-  - Inhyukk
+  - Heechann
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,14 +21,14 @@ organizations:
 bio: .
 
 interests:
-  - Interaction Techniques
-  - VR and Metaverse
+  - Physiology-based Interaction
+  - VR/AR
 
 education:
   courses:
     - course: BSc in Software Convergence
       institution: Kyung Hee University
-      year: 2025
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
