@@ -15,23 +15,22 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: oreo329@khu.ac.kr
+  phone: +82-31-201-3743
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: deokyeongdae-ro 1732
+    city: yongin-si
+    region: gyunggi-do
+    postcode: '17104'
+    country: South Korea
+    country_code: KR
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '37.2459'
+    longitude: '127.0770'
+  directions: Woojungwon Offfice 7031 on Floor 7
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday 17:00 to 18:00'
+  #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
