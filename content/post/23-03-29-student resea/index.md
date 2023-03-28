@@ -1,5 +1,5 @@
 ---
-title: Recruiting Graduate and Undergraduate Students!
+title: Recruiting Students!
 date: 2023-03-29
 image:
   focal_point: 'top'
@@ -15,7 +15,7 @@ image:
 
 ✔️연구를 수행할 학생은 자기소개서, 간단한 포트폴리오, 성적증명서, 희망 연구 분야를 정해서 자유 양식으로 작성 후 이메일(오승재 교수: oreo329@khu.ac.kr)로 연락주시기 바랍니다. 
 
- 연구 주제#1: Interaction Technique<br>
+ <!-- 연구 주제#1: Interaction Technique<br>
  - https://www.youtube.com/watch?v=nBQOxj9myGI
  - https://www.youtube.com/watch?v=7x6-7iyTnq0
  - https://www.youtube.com/watch?v=sOkzPZnlAeE
@@ -35,4 +35,4 @@ image:
  - https://tangible.media.mit.edu/project/metasense
  - https://www.youtube.com/watch?v=WG6Kzt14sak
 
-✔️캡스톤디자인 과목의 프로젝트 주제로 위의 연구 주제 혹은 연구 과제 관련 내용을 선택해서 수행할 수 있습니다.   
+✔️캡스톤디자인 과목의 프로젝트 주제로 위의 연구 주제 혹은 연구 과제 관련 내용을 선택해서 수행할 수 있습니다.    -->
