@@ -20,6 +20,7 @@ content:
     - Researchers
     - Graduate Students
     - Undergraduate Students
+    - Visitors
     - Alumni
 design:
   show_interests: false
