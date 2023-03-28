@@ -1,6 +1,6 @@
 ---
 title: Recruiting Students!
-date: 2023-03-29
+date: 2023-03-28
 image:
   focal_point: 'top'
 ---
