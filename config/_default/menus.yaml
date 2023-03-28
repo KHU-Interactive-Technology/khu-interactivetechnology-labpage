@@ -17,7 +17,7 @@ main:
     # url: course
     # weight: 40
   - name: Publications
-    url: publication
+    url: https://lokilike.netlify.app/about/
     weight: 50
   - name: Join Us
     url: contact
