@@ -1,6 +1,6 @@
 ---
 title: Human & Interactive Technology Laboratory
-date: 2023-09-01
+date: 2022-09-01
 image:
   focal_point: 'top'
 ---
