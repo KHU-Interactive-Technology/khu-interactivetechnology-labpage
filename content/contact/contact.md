@@ -54,7 +54,7 @@ design:
 ---
 
 The Human & Interactive Technology Laboratory is recruiting M.S & Ph.D. students for the upcoming semester (Fall 2023)! 
-If you are interested in designing 3d-printed structure for sensing techniques and haptic interactions & new types of I/O interfaces for game and metaverse, please reach out to Seungjae Oh(oreo329@khu.ac.kr). 
+If you are interested in designing 3d-printed structure for sensing techniques and haptic interactions & new types of I/O interfaces for game and metaverse, please reach out to Seungjae Oh. 
 
 경희대학교 소프트웨어융합학과 인터랙티브 테크놀로지 연구실은 차세대 디지털 플랫폼(AR, VR, Digital Twin, Metaverse), 디지털 콘텐츠, 게임 관련 학제적 연구를 수행하는 것을 목표로 합니다.
 
