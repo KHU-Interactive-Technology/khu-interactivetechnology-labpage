@@ -1,6 +1,6 @@
 ---
-title: Recruiting Graduate and Undergraduate Students!
-date: 2023-03-29
+title: Recruiting Students!
+date: 2023-03-28
 image:
   focal_point: 'top'
 ---
@@ -35,5 +35,4 @@ image:
  - https://tangible.media.mit.edu/project/metasense
  - https://www.youtube.com/watch?v=WG6Kzt14sak
 
-✔️캡스톤디자인 과목의 프로젝트 주제로 위의 연구 주제 혹은 연구 과제 관련 내용을 선택해서 수행할 수 있습니다.   
-
+✔️캡스톤디자인 과목의 프로젝트 주제로 위의 연구 주제 혹은 연구 분야 관련 내용을 선택해서 수행할 수 있습니다.   
