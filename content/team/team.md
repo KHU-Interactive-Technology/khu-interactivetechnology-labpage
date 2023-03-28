@@ -1,7 +1,7 @@
 ---
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: team
 
 # This file represents a page section.
 headless: true
@@ -18,8 +18,8 @@ content:
   user_groups:
     - Principal Investigator
     - Researchers
-    - Grad Students
-    - Administration
+    - Graduate Students
+    - Undergraduate Students
     - Visitors
     - Alumni
 design:
