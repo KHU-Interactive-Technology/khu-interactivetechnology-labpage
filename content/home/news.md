@@ -8,7 +8,7 @@ title: Latest News
 subtitle:
 
 content:
-  count: 3
+  count: 5
   filters:
     author: ''
     category: ''
@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 5
+  view: 7
   columns: '1'
 ---
