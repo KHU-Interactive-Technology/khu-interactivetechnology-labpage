@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Jinyoung Lee
+title: Changbeom Ha
 # Username (this should match the folder name)
 authors:
-  - Jinyoung
+  - Changbeom
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Researcher
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -20,13 +20,15 @@ organizations:
 bio: .
 
 interests:
-  - Motion Tracking & AI
+  - Immersive Contents
+  - XR
+  - Eye tracking
 
 education:
   courses:
     - course: BSc in Software Convergence
       institution: Kyung Hee University
-      year: 2024
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -35,7 +37,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:coolget159@khu.ac.kr'
+    link: 'mailto:swbeom@khu.ac.kr'
+  - icon: house
+    icon_pack: fas
+    link: 'https://shimmer-whistle-453.notion.site/changbeomHa-13f53f9f6add468d9e99d7a18288df24'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,5 +53,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Master's Student
 ---
