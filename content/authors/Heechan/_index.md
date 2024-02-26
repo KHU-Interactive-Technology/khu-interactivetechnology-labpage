@@ -4,7 +4,7 @@ title: Heechan Moon
 
 # Username (this should match the folder name)
 authors:
-  - Heechan
+  - Heechans
 
 # Is this the primary user of the site?
 superuser: false
