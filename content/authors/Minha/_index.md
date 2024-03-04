@@ -38,7 +38,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:harororo721@khu.ac.kr'
-    icon: house
+  - icon: house
     icon_pack: fas
     link: 'https://minariatoz.notion.site/5c4e94a2f2f24a2281e99f4ade97da16?pvs=4'
 # Link to a PDF of your resume/CV from the About widget.
