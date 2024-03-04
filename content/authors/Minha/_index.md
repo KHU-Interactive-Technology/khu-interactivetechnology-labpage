@@ -20,14 +20,15 @@ organizations:
 bio: .
 
 interests:
-  - Physiology-based Interaction
-  - VR/AR
+  - XR
+  - HCI
+  - Controller
 
 education:
   courses:
     - course: BSc in Software Convergence
       institution: Kyung Hee University
-      year: 2023
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,6 +38,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:harororo721@khu.ac.kr'
+    icon: house
+    icon_pack: fas
+    link: 'https://minariatoz.notion.site/5c4e94a2f2f24a2281e99f4ade97da16?pvs=4'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
