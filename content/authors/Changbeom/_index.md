@@ -28,7 +28,7 @@ education:
   courses:
     - course: BSc in Software Convergence
       institution: Kyung Hee University
-      year: 2023
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

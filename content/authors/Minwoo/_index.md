@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in Software Convergence
+    - course: BSc in Mechanical Engineering
       institution: Kyung Hee University
       year: 2024
 
