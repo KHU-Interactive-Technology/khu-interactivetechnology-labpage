@@ -20,7 +20,8 @@ organizations:
 bio: .
 
 interests:
-  - Motion Tracking & AI
+  - Haptic Feedback
+  - Meta Material
 
 education:
   courses:

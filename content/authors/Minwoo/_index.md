@@ -20,8 +20,8 @@ organizations:
 bio: .
 
 interests:
-  - Physiology-based Interaction
-  - VR/AR
+  - Robotics
+  - Haptic Engineering
 
 education:
   courses:
