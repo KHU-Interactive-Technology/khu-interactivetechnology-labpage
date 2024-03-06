@@ -21,14 +21,14 @@ bio: .
 
 interests:
   - Immersive Contents
-  - XR
   - Eye tracking
+  - XR
 
 education:
   courses:
     - course: BSc in Software Convergence
       institution: Kyung Hee University
-      year: 2018
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
