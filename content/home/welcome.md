@@ -7,23 +7,22 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: 
-  Beyond the technology  
-hero_media: lighting.jpg
+  Beyond the technology
+hero_media: main.png
 design:
   background:
     image:
       1.jpg
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Add custom styles
   css_style:
   css_class:
 ---
-
 <br>
 
 The **Human & Interactive Technology Laboratory** is an interdisciplinary research group in the department of software convergence at Kyung Hee University.
 We envision next-generation interactive technologies for future computing environments, e.g., extended reality and metaverse. 
-Our research focuses on designing novel input and output interfaces fostering seamless interactions between humans and computers.  
-<br>
+Our research focuses on designing novel input and output interfaces fostering seamless interactions between humans and computers. 
+<br><!--br-->
 <!--div style="text-align: right"><span style="font-size: 7px">Image by rawpixel.com on Freepik<span></div-->
