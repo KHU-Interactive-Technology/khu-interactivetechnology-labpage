@@ -20,7 +20,7 @@ organizations:
 bio: .
 
 interests:
-  - Immersive Contents
+  - Flow & Immersive Contents
   - Eye tracking
   - XR
 
@@ -40,7 +40,7 @@ social:
     link: 'mailto:swbeom@khu.ac.kr'
   - icon: house
     icon_pack: fas
-    link: 'https://shimmer-whistle-453.notion.site/changbeomHa-13f53f9f6add468d9e99d7a18288df24'
+    link: 'https://changbeomha.github.io/beom/'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
