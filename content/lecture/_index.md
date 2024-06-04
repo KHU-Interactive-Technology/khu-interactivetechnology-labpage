@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Lecture
 
 # Listing view
 view: compact
