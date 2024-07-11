@@ -10,8 +10,8 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: Lecture
-    url: lecture
+  - name: Teaching
+    url: teaching
     weight: 30
   - name: Team
     url: people

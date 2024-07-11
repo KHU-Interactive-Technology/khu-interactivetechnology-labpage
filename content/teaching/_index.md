@@ -1,5 +1,5 @@
 ---
-title: Lecture
+title: Teaching
 
 # Listing view
 view: compact
