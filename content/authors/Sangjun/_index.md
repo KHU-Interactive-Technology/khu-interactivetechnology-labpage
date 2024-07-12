@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SangJun Park
+title: Sangjun Park
 # Username (this should match the folder name)
 authors:
   - Sangjun
@@ -20,9 +20,9 @@ organizations:
 bio: .
 
 interests:
-  - 
-  - 
-  - 
+  - HCI
+  - Eye tracking
+  - XR
 
 education:
   courses:
@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:sjpark514@khu.ac.kr'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
