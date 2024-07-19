@@ -20,7 +20,8 @@ main:
     url: https://lokilike.netlify.app/research/
     weight: 50
   - name: Publications
-    url: https://lokilike.netlify.app/about/
+    url : publications
+    #url: https://lokilike.netlify.app/about/
     weight: 60
   - name: Join Us
     url: contact

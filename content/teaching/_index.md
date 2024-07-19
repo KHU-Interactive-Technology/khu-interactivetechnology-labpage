@@ -2,7 +2,7 @@
 title: Teaching
 
 # Listing view
-view: citation
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
