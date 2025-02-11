@@ -28,7 +28,8 @@ abstract: Providing haptic feedback for soft, deformable objects is challenging,
 summary: In this study, we present SkinHaptics, a novel and device-free haptic methodology to facilitate self-haptic interactions through empirical evidence.
 
 tags:
-  # - Source Themes
+  - ACM
+  - ACM CHI
 featured: true
 
 links:
@@ -47,7 +48,6 @@ url_pdf: https://lokilike.netlify.app/about/
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  caption: ''
   focal_point: ''
   preview_only: false
 
