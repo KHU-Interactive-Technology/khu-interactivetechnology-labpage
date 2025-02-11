@@ -1,5 +1,5 @@
 ---
-title: New Students!
+title: New Students
 date: 2024-03-04
 image:
   focal_point: 'top'
