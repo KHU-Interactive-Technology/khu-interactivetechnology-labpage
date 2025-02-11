@@ -28,7 +28,7 @@ abstract: Providing haptic feedback for soft, deformable objects is challenging,
 summary: In this study, we present SkinHaptics, a novel and device-free haptic methodology to facilitate self-haptic interactions through empirical evidence.
 
 tags:
-  - Source Themes
+  # - Source Themes
 featured: true
 
 links:
@@ -47,7 +47,7 @@ url_pdf: https://lokilike.netlify.app/about/
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  # caption: 'The contribution of this work is the first proposal to represent the varying softness of a virtual object using the users hand.'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -70,4 +70,4 @@ slides:
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}} -->
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
