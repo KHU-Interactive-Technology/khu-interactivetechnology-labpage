@@ -47,7 +47,7 @@ url_pdf: https://lokilike.netlify.app/about/
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  caption: 'The contribution of this work is the first proposal to represent the varying softness of a virtual object using the users hand.'
+  # caption: 'The contribution of this work is the first proposal to represent the varying softness of a virtual object using the users hand.'
   focal_point: ''
   preview_only: false
 
