@@ -25,4 +25,4 @@ The **Human & Interactive Technology Laboratory** is an interdisciplinary resear
 We envision next-generation interactive technologies for future computing environments, e.g., extended reality and metaverse. 
 Our research focuses on **designing novel input and output interfaces fostering seamless interactions** between humans and computers. 
 <br><!--br-->
-<!--div style="text-align: right"><span style="font-size: 5px">Image by rawpixel.com on Freepik<span></div-->
+<!--div style="text-align: right"><span style="font-size: 3px">Image by rawpixel.com on Freepik<span></div-->

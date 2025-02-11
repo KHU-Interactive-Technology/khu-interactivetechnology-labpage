@@ -1,7 +1,6 @@
 ---
 title: New Student
 date: 2023-03-02
-active: false
 image:
   focal_point: 'top'
 ---
