@@ -25,7 +25,7 @@ publication_short: In *CHI2025*
 abstract: Providing haptic feedback for soft, deformable objects is challenging, requiring complex mechanical hardware combined with modeling and rendering software. As an alternative, we advance the concept of self-haptics, where the user's own body delivers physical feedback, to convey dynamically varying softness in VR. Skin can exhibit different levels of contact softness by altering the biomechanical state of the body. We propose SkinHaptics, a device-free approach that changes the states of musculoskeletal structures and virtual hand-object representations. In this study, we conduct three experiments to demonstrate SkinHaptics. Using the same scale, we measure skin softness across various hand poses and contact points and evaluate the just noticeable difference in skin softness. We investigate the effect of hand-object representations on self-haptic interactions. Our findings indicate that the visual representations have a significant influence on the embodiment of a self-haptic hand, and the degree of the hand embodiment strongly affects the haptic experience.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this study, we present SkinHaptics, a novel and device-free haptic methodology to facilitate self-haptic interactions through empirical evidence.
 
 tags:
   - Source Themes
@@ -33,8 +33,8 @@ featured: true
 
 links:
   - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+    url: https://lokilike.netlify.app/research/
+url_pdf: https://lokilike.netlify.app/about/
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -47,6 +47,7 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'The contribution of this work is the first proposal to represent the varying softness of a virtual object using the users hand.'
   focal_point: ''
   preview_only: false
 
@@ -65,8 +66,8 @@ projects:
 slides:
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
