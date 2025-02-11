@@ -1,7 +1,7 @@
 ---
 title: 'HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience'
 authors:
-  -Kyungeun Jung
+  - Kyungeun Jung
   - Sangpil Kim
   - admin
   - Sangho Yoon
@@ -21,7 +21,7 @@ publication_types: ['1']
 publication: '*Springer VR, 28*(1)'
 publication_short: 'Springer VR'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We present a novel haptic rendering framework that translates the performer’s motions into wearable vibrotactile feedback for an immersive virtual reality (VR) performance experience. Here, we employ a rendering pipeline that extracts meaningful vibrotactile parameters including intensity and location. We compute these parameters from the performer’s upper-body movements which play a significant role in a dance performance. Therefore, we customize a haptic vest and sleeves to support vibrotactile feedback on the frontal and back parts of the torso and shoulders as well. To capture essential movements from the VR performance, we propose a method called motion salient triangle (MST). MST utilizes key skeleton joints’ movements to compute the associated haptic parameters. Our method supports translating both choreographic and communicative motions into vibrotactile feedback. Through a series of user studies, we validate the user preference for our method compared to the conventional motion-to-tactile and audio-to-tactile methods.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
