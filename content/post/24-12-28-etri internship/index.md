@@ -1,13 +1,10 @@
 ---
-title: New Students!
-date: 2024-03-04
+title: ETRI Internship
+date: 2024-12-28
 image:
   focal_point: 'top'
 ---
 
-Changbeom, Minha, Minwoo joined our lab as master's students and Jinyoung joined our lab as an undergraduate research intern.  
-These students' areas of interest are as follows:  
-- Changbeom : Immersive Contents, Eye Tracking, XR
-- Jinyoung : Haptic Feedback, Meta Material
-- Minha : XR, HCI, Controller
-- Minwoo : Robotics, Haptic Engineering
+Jungmin accepted to 2025 ETRI Internship Program.
+She will have internship at Tangible Creative Interface Laboratory in ETRI.
+
