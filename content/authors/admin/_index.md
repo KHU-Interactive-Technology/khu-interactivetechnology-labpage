@@ -41,6 +41,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
+  - icon: cv
+    icon_pack: ai
+    link: files/seungjae_cv.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=z8PB_AwAAAAJ&hl=en

@@ -1,6 +1,8 @@
 ---
 title:
 subtitle:
+# Activate this widget? true/false
+active: false
 widget: blank
 headless: true
 weight: 40
