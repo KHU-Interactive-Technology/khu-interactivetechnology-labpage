@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Human & Interactive Technology
+title: Seungjae Oh
 
 # Is this the primary user of the site?
 superuser: true
@@ -65,4 +65,4 @@ user_groups:
   - Principal Investigator
 ---
 
-
+Seungjae Oh is a assistant professor of software convergence department at Kyung Hee University. His research interests include interactive I/O technologies, haptics, and interaction techniques. He leads the interactive technology group, which develops interaction techniques for game and metaverse, input & output interfaces for AR/VR, and tactile displays for haptic interaction.
