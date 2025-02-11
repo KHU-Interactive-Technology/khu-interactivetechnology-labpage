@@ -1,5 +1,5 @@
 ---
-title: New Student!
+title: New Student
 date: 2023-03-02
 image:
   focal_point: 'top'
