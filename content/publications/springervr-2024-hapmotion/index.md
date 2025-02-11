@@ -1,8 +1,11 @@
 ---
-title: '2024 Capstone Design Project Example'
+title: 'HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience'
 authors:
-  - Hong Gil Dong
-date: '2024-07-12T00:00:00Z'
+  -Kyungeun Jung
+  - Sangpil Kim
+  - admin
+  - Sangho Yoon
+date: '2024-01-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -12,11 +15,11 @@ publishDate: '2024-07-12T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
+publication: '*Springer VR, 28*(1)'
+publication_short: 'Springer VR'
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
