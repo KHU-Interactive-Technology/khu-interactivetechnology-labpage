@@ -3,6 +3,7 @@ title: New Student
 date: 2023-03-02
 image:
   focal_point: 'top'
+active: false
 ---
 
 Heechan joined our lab as an undergraduate research intern.
