@@ -6,8 +6,9 @@ image:
 ---
 
 Changbeom, Minha, Minwoo joined our lab as master's students and Jinyoung joined our lab as an undergraduate research intern.  
-These students' areas of interest are as follows:  
-- Changbeom : Immersive Contents, Eye Tracking, XR
-- Jinyoung : Haptic Feedback, Meta Material
-- Minha : XR, HCI, Controller
-- Minwoo : Robotics, Haptic Engineering
+
+These students' areas of interest are as follows
+- Changbeom: Immersive Contents, Eye Tracking, XR
+- Jinyoung: Haptic Feedback, Meta Material
+- Minha: XR, HCI, Controller
+- Minwoo: Robotics, Haptic Engineering
