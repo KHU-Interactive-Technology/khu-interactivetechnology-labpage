@@ -1,8 +1,11 @@
 ---
-title: 'An example conference paper'
+title: 'SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions'
 authors:
+  - Jungeun Lee
+  - Minha Jeon
+  - Jinyoung Lee
+  - Seungmoon Choi
   - admin
-  - Robert Ford
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
