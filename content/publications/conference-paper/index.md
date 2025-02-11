@@ -19,10 +19,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Proceedings of CHI Conference on Human Factors in Computing Systems*
+publication_short: In *CHI2025*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Providing haptic feedback for soft, deformable objects is challenging, requiring complex mechanical hardware combined with modeling and rendering software. As an alternative, we advance the concept of self-haptics, where the user's own body delivers physical feedback, to convey dynamically varying softness in VR. Skin can exhibit different levels of contact softness by altering the biomechanical state of the body. We propose SkinHaptics, a device-free approach that changes the states of musculoskeletal structures and virtual hand-object representations. In this study, we conduct three experiments to demonstrate SkinHaptics. Using the same scale, we measure skin softness across various hand poses and contact points and evaluate the just noticeable difference in skin softness. We investigate the effect of hand-object representations on self-haptic interactions. Our findings indicate that the visual representations have a significant influence on the embodiment of a self-haptic hand, and the degree of the hand embodiment strongly affects the haptic experience.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,18 +35,18 @@ links:
   - name: Custom Link
     url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
@@ -56,7 +56,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  # - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
