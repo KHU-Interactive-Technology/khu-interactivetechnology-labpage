@@ -1,10 +1,10 @@
 ---
 title: 'SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions'
 authors:
-  - Jungeun Lee
-  - Minha Jeon
-  - Jinyoung Lee
-  - Seungmoon Choi
+  - "Jungeun Lee"
+  - "Minha Jeon"
+  - "Jinyoung Lee"
+  - "Seungmoon Choi"
   - admin
 date: '2025-04-29T00:00:00Z'
 doi: ''

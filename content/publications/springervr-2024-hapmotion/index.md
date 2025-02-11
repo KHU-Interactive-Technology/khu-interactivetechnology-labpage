@@ -1,10 +1,15 @@
 ---
 title: 'HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience'
 authors:
-  - Kyungeun Jung
-  - Sangpil Kim
+  - "Kyungeun Jung"
+  - "Sangpil Kim"
   - admin
-  - Sangho Yoon
+  - "Sangho Yoon"
+author_notes:
+  - 
+  - 
+  - "Co-Corresponding Author"
+  - "Co-Corresponding Author"
 date: '2024-01-09T00:00:00Z'
 doi: ''
 
