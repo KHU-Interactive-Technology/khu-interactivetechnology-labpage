@@ -1,5 +1,6 @@
 ---
 title: Publications
+cms_exclude: true
 
 # Listing view
 view: citation
