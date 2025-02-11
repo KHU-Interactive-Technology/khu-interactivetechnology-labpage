@@ -12,7 +12,7 @@ hero_media: main.png
 design:
   background:
     image:
-      1.jpg
+      background.jpg
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
   # Add custom styles

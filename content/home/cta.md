@@ -2,7 +2,7 @@
 title:
 subtitle:
 # Activate this widget? true/false
-active: true
+active: false
 widget: blank
 headless: true
 weight: 40
