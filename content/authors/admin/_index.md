@@ -18,7 +18,7 @@ bio: My research interests include interactive I/O technologies, Haptics, and ga
 
 interests:
   - Input & Output Interface Design
-  - Interaction Technique Evaluation
+  - Interaction Technique
   - Haptic Interaction
 
 education:
