@@ -24,8 +24,7 @@ publication_short: ''
 abstract: We present a novel haptic rendering framework that translates the performer’s motions into wearable vibrotactile feedback for an immersive virtual reality (VR) performance experience. Here, we employ a rendering pipeline that extracts meaningful vibrotactile parameters including intensity and location. We compute these parameters from the performer’s upper-body movements which play a significant role in a dance performance. Therefore, we customize a haptic vest and sleeves to support vibrotactile feedback on the frontal and back parts of the torso and shoulders as well. To capture essential movements from the VR performance, we propose a method called motion salient triangle (MST). MST utilizes key skeleton joints’ movements to compute the associated haptic parameters. Our method supports translating both choreographic and communicative motions into vibrotactile feedback. Through a series of user studies, we validate the user preference for our method compared to the conventional motion-to-tactile and audio-to-tactile methods.
 
 # Summary. An optional shortened abstract.
-summary: HapMotion is a motion-to-tactile framework that translates the performer’s motion in real time to enable an immersive VR performance
-experience.
+summary: HapMotion is a motion-to-tactile framework that translates the performer’s motion in real time to enable an immersive VR performance experience.
 
 tags:
   - Source Themes
@@ -47,7 +46,7 @@ url_video: 'https://www.youtube.com/watch?v=Uhx1PxLvpBk'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  caption: A novel haptic rendering algorithm to translate performer’s diverse motion context into haptic intensity and localization parameters.
+  caption: 'A novel haptic rendering algorithm to translate performer’s diverse motion context into haptic intensity and localization parameters.'
   focal_point: ''
   preview_only: false
 
