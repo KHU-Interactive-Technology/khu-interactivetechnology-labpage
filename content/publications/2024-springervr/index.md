@@ -34,14 +34,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/article/10.1007/s10055-023-00910-z
+url_pdf: 'https://link.springer.com/article/10.1007/s10055-023-00910-z'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
-url_project: http://hapmotion.hcitech.org/
+url_project: 'http://hapmotion.hcitech.org/'
 # url_slides: ''
 # url_source: ''
-url_video: https://www.youtube.com/watch?v=Uhx1PxLvpBk
+url_video: 'https://www.youtube.com/watch?v=Uhx1PxLvpBk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
