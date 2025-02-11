@@ -21,7 +21,7 @@ design:
 ---
 <br>
 
-The **Human & Interactive Technology Laboratory** is an interdisciplinary research group in the department of software convergence at Kyung Hee University.
+The **Human & Interactive Technology Laboratory** is an interdisciplinary research group in the Department of Software Convergence at Kyung Hee University.
 We envision next-generation interactive technologies for future computing environments, e.g., extended reality and metaverse. 
 Our research focuses on designing novel input and output interfaces fostering seamless interactions between humans and computers. 
 <br><!--br-->
